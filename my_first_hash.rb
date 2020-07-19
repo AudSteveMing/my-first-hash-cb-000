@@ -44,3 +44,8 @@ def adding
   # return the shipping_manifest hash below
 shipping_manifest
 end
+
+
+def my_hash
+  your_hash = {"name" => "Steve", "last_name"=>"Cordova"}
+end
